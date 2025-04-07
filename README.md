@@ -6,7 +6,7 @@ USDT Flash Software is a cutting edge tool designed to streamline and accelerate
 <a href="https://t.co/BFghyzfozZ"><img src="https://gcdnb.pbrd.co/images/CmaC1ZsmJQH9.png"></img></a>
 </br></br>
 **💻 Official Website:** <a href="https://t.co/BFghyzfozZ">GO TO WEBSITE</a> \
-**📮 Support (Active):** ​**𝗰o𝗻t𝗮c𝘁+2@𝘂s𝗱t𝗳l𝗮s𝗵.𝗰c** \
+**📮 Support (Active):** ​**contact@𝘂s𝗱t𝗳l𝗮s𝗵.𝗰c** \
 **🎬 User Guide Video:** https://t.co/SVIxaSQWY8
 
 
@@ -47,4 +47,4 @@ USDT Flash Software redefines how users interact with USDT transactions by prior
 Ready to experience the power of USDT Flash Software with Just One Click (JOT) Design?
 
 ### 🔗 Stay Connected
-📩 **Need help?** Contact our support team anytime we’re here to assist you! \
+📩 **Need help?** Contact our support team anytime we’re here to assist you!
