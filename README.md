@@ -18,16 +18,16 @@ USDT Flash Software leverages advanced blockchain technology to deliver lightnin
 - No advanced technical knowledge required anyone can use it with ease.
 
 ### ⚡ Blazing Fast USDT Transactions
-- Transactions are processed almost instantaneously.
+- USDT Transactions are processed almost instantaneously.
 - Ideal for traders operating in high volatility markets.
 
 ### 🔐 Fortified Security
-- State-of-the-art encryption and security protocols protect transactions.
+- State of the art encryption and security protocols protect transactions.
 - User data remains safeguarded from unauthorized access.
 
 ### 🖥️ Multi-Platform Compatibility
-- Available for **Windows**, **macOS**, and **Linux**.
-- Delivers a smooth and consistent experience across devices.
+- Available for **Windows**, **macOS**, **ios**, **android** and **Linux**.
+- Flash USDT Delivers a smooth and consistent experience across devices.
 
 ### 📊 Transparent Flash USDT Transaction Records
 - Built-in transaction history feature.
